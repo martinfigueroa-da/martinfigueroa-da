@@ -56,6 +56,7 @@ Análisis de embudo y retención para MercadoLibre
 **Tech Stack:** `Statistical Analysis` `SQL` `Excel`.
 
 [Ver Dashboard Interactivo en Excel Online](https://docs.google.com/spreadsheets/d/1u0aKKo_6CIx0pcvAeH3wGmFPs_gsrQee/edit?usp=sharing&ouid=106564078619875433630&rtpof=true&sd=true)
+
 ---
 
 Analista en Walmart la Dirección Comercial necesita un resumen ejecutivo para decidir determinados ajustes de presupuesto e inventario.

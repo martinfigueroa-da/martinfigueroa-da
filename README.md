@@ -1,16 +1,81 @@
-## Hi there 👋
 
-<!--
-**martinfigueroa-da/martinfigueroa-da** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hola! Soy Juan Martin Figueroa 
 
-Here are some ideas to get you started:
+<div align="center">
+  
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Acerca de mi
+Soy **Data Analyst en formación** con más de **4 años de experiencia** como Tecnico electricista en el IMSS. Mi combinación única de habilidades técnicas me permite no solo analizar datos, sino también entender profundamente su arquitectura, calidad y flujo desde la fuente hasta el insight final.
+
+- 🔭 Actualmente cursando **Data Analyst Certificate en TripleTen**
+- 💼 Trabajando en **IMSS** como Tecnico Electricista
+- 🎮 Apasionada por el análisis de datos en la **industria de videojuegos**
+- 📊 Especializada en **análisis estadístico**, **visualización de datos** y **cloud architecture**
+- 🌱 Aprendiendo continuamente sobre **Machine Learning** y **Advanced Analytics**
+- 💡 Enfoque: Transformar datos complejos en **insights accionables**
+
+## 🛠️ Stack Tecnologico
+
+### 📊 Analisis de Datos
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+
+### 📈 Visualizacion de Datos
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+
+### 🗄️ Bases de Datos
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🔧 Herramientas
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+
+## 🎯 Projectos Destacados
+
+
+
+## 🏆 Experiencia Profesional
+
+### 💼 IMSS - Tecnico Electricista
+**Marzo 2022 - Presente**
+Digitalicé y automatice el registro de mantenimientos preventivos y correctivos mediante Excel, permitiendo el análisis de fallas recurrentes y la optimización de los tiempos de respuesta.
+Administré y controlé el inventario de refacciones y materiales eléctricos utilizando bases de datos, garantizando la disponibilidad de recursos para áreas críticas.
+Elaboré informes técnicos y reportes de estado basados en datos, facilitando a la coordinación de conservación.
+
+
+## 📚 Educacion y Certificaciones
+
+- 🎓 **Data Analyst Certificate** - TripleTen (2025-2026, En proceso)
+- 🎓 **Ingenieria Electrica** - Instituto Tecnologico de Tepic
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-figueroa-da/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmartinfigueroam@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://martinfigueroa-da.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/martinfigueroa-da)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Sin datos solo eres otra persona con una opinion."
+
+</div>
+
+---
+
+⭐️ From [Juan Martin Figueroa](https://github.com/martinfigueroa-da)

@@ -47,26 +47,34 @@ Análisis de embudo y retención para MercadoLibre
 -Proponer mejoras accionables basadas en los datos.
 
 **Highlights:**
+
 -Construir embudos multietapa en SQL usando CTEs.
 -Calcular tasas de conversión entre pasos y detectar caídas.
 -Analizar la retención de usuarios por cohortes.
 -Simular mejoras en conversión o retención.
 -Validar resultados y comunicar hallazgos ejecutivos.
 **Tech Stack:** `Statistical Analysis` `SQL` `Excel`.
+
 [Ver Dashboard Interactivo en Excel Online](https://docs.google.com/spreadsheets/d/1u0aKKo_6CIx0pcvAeH3wGmFPs_gsrQee/edit?usp=sharing&ouid=106564078619875433630&rtpof=true&sd=true)
 ---
+
 Analista en Walmart la Dirección Comercial necesita un resumen ejecutivo para decidir determinados ajustes de presupuesto e inventario.
+
 -Limpieza y preparación de datos.
 -Creación de métricas de negocio (KPIs).
 -Construcción de dashboards interactivos.
 -Comunicación ejecutiva con el método C-F-I (Context, Finding, Implication).
+
 **Highlights:**
+
 -Preparar datos para el análisis (limpieza, enriquecimiento, documentación).
 -Construir KPIs clave para evaluar la eficiencia y la participación.
 -Crear dashboards dinámicos con filtros y visualizaciones útiles para los stakeholders.
 -Comunicar hallazgos ejecutivos mediante el método C→F→I.
 -Aplicar QA para asegurar la calidad y trazabilidad del análisis.
 [Ver Dashboard Interactivo en Excel Online](https://docs.google.com/spreadsheets/d/12onN92P5FaqTR1JYGzIjd7cDa_QcJ5CT/edit?usp=drive_link&ouid=106564078619875433630&rtpof=true&sd=true)
+
+**Tech Stack:** `Excel`.
 
 ## 🏆 Experiencia Profesional
 
